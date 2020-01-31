@@ -1,0 +1,20 @@
+{"success":true,"message":"","radios":
+[
+
+{"number":"1","name":"Hala FM 102.7 FM","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/om/master/Hala.png","streamUrl":"http://s8.viastreaming.net:7850/;","yourmuzeId":"0","state":"1"},
+{"number":"2","name":"Al Wisal FM","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/om/master/wisal.jpg","streamUrl":"http://212.71.250.12:8067/stream/;","yourmuzeId":"0","state":"1"},
+{"number":"3","name":"Muscat FM","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/om/master/muscat.png","streamUrl":"http://rss-streaming.co.uk:8022/mp3","yourmuzeId":"0","state":"1"},
+{"number":"4","name":"Shabiba FM","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/om/master/chabiba.png","streamUrl":"http://stream.shabiba.fm:8000/;stream.nsv","yourmuzeId":"0","state":"1"},
+{"number":"5","name":"T FM","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/om/master/TFM.png","streamUrl":"http://stream.timesofoman.fm:8028/;stream.nsv","yourmuzeId":"0","state":"1"},
+{"number":"6","name":"Merge 104.8","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/om/master/Merge.png","streamUrl":"http://uk7.internet-radio.com:8040/stream","yourmuzeId":"0","state":"1"},
+{"number":"7","name":"Virgin Radio Oman","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/om/master/virgin.jpg","streamUrl":"http://139.162.245.57:8115/stream/;","yourmuzeId":"0","state":"1"},
+{"number":"8","name":"Radio Bbc","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/om/master/bbc.png","streamUrl":"http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba","yourmuzeId":"0","state":"1"},
+{"number":"9","name":"Monte Carlo Doualiya","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/om/master/monicarlo.jpg","streamUrl":"http://live02.mc-doualiya.com/mc-doualiya.mp3","yourmuzeId":"0","state":"1"},
+{"number":"10","name":"Radio Sawa","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/om/master/sawa.png","streamUrl":"","yourmuzeId":"0","state":"1"}
+
+],
+"country":{"id":"60","name":"oman","logo":"..\/..\/_upload\/_flags\/oman.png","radiosNbr":null,"radiosOkNbr":null,"radiosKoNbr":null}}
+
+
+
+
