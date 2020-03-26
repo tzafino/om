@@ -10,8 +10,24 @@
 {"number":"7","name":"Virgin Radio Oman","description":"","logo":"https://raw.githubusercontent.com/tzafino/om/master/virgin.jpg","streamUrl":"http://139.162.245.57:8115/stream/;","yourmuzeId":"0","state":"1"},
 {"number":"8","name":"Radio Bbc","description":"","logo":"https://raw.githubusercontent.com/tzafino/om/master/bbc.png","streamUrl":"http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba","yourmuzeId":"0","state":"1"},
 {"number":"9","name":"Monte Carlo Doualiya","description":"","logo":"https://raw.githubusercontent.com/tzafino/om/master/monicarlo.jpg","streamUrl":"http://live02.mc-doualiya.com/mc-doualiya.mp3","yourmuzeId":"0","state":"1"},
-{"number":"10","name":"Radio Sawa","description":"","logo":"https://raw.githubusercontent.com/tzafino/om/master/sawa.png","streamUrl":"","yourmuzeId":"0","state":"1"},
-
+{"number":"10","name":"Hi FM Oman","description":"","logo":"https://raw.githubusercontent.com/tzafino/om/master/monicarlo.jpg","streamUrl":"http://s8.viastreaming.net:7840/;","yourmuzeId":"0","state":"1"}, 
+{"number":"11","name":"Monte Carlo Doualiya","description":"","logo":"https://raw.githubusercontent.com/tzafino/om/master/monicarlo.jpg","streamUrl":"http://live02.mc-doualiya.com/mc-doualiya.mp3","yourmuzeId":"0","state":"1"},
+{"number":"12","name":"Monte Carlo Doualiya","description":"","logo":"https://raw.githubusercontent.com/tzafino/om/master/monicarlo.jpg","streamUrl":"http://live02.mc-doualiya.com/mc-doualiya.mp3","yourmuzeId":"0","state":"1"},  
+{"number":"13","name":"Monte Carlo Doualiya","description":"","logo":"https://raw.githubusercontent.com/tzafino/om/master/monicarlo.jpg","streamUrl":"http://live02.mc-doualiya.com/mc-doualiya.mp3","yourmuzeId":"0","state":"1"},  
+{"number":"14","name":"Monte Carlo Doualiya","description":"","logo":"https://raw.githubusercontent.com/tzafino/om/master/monicarlo.jpg","streamUrl":"http://live02.mc-doualiya.com/mc-doualiya.mp3","yourmuzeId":"0","state":"1"},  
+{"number":"15","name":"Monte Carlo Doualiya","description":"","logo":"https://raw.githubusercontent.com/tzafino/om/master/monicarlo.jpg","streamUrl":"http://live02.mc-doualiya.com/mc-doualiya.mp3","yourmuzeId":"0","state":"1"},  
+{"number":"16","name":"Radio Sawa","description":"","logo":"https://raw.githubusercontent.com/tzafino/om/master/sawa.png","streamUrl":"","yourmuzeId":"0","state":"1"},  
+{"number":"17","name":"Radio Sawa","description":"","logo":"https://raw.githubusercontent.com/tzafino/om/master/sawa.png","streamUrl":"","yourmuzeId":"0","state":"1"},  
+{"number":"18","name":"Radio Sawa","description":"","logo":"https://raw.githubusercontent.com/tzafino/om/master/sawa.png","streamUrl":"","yourmuzeId":"0","state":"1"},  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   {"number":"147","name":"ماهر المعيقل","description":"","logo":"https://raw.githubusercontent.com/tzafino/eg/master/m3ay9li.jpg","streamUrl":"http://server2.quraan.us:9856/;*.mp3","yourmuzeId":"0","state":"1"},
 {"number":"148","name":"ياسر الدوسري","description":"","logo":"https://raw.githubusercontent.com/tzafino/eg/master/dawsari.jpg","streamUrl":"http://quraan.us:9884/;*.mp3","yourmuzeId":"0","state":"1"},
