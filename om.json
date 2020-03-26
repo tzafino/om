@@ -4,7 +4,7 @@
 {"number":"1","name":"Hala FM 102.7 FM","description":"","logo":"https://raw.githubusercontent.com/tzafino/om/master/Hala.png","streamUrl":"http://s8.viastreaming.net:7850/;","yourmuzeId":"0","state":"1"},
 {"number":"2","name":"Al Wisal FM","description":"","logo":"https://raw.githubusercontent.com/tzafino/om/master/wisal.jpg","streamUrl":"http://212.71.250.12:8067/stream/;","yourmuzeId":"0","state":"1"},
 {"number":"3","name":"Muscat FM","description":"","logo":"https://raw.githubusercontent.com/tzafino/om/master/muscat.png","streamUrl":"http://rss-streaming.co.uk:8022/mp3","yourmuzeId":"0","state":"1"},
-{"number":"4","name":"Shabiba FM","description":"","logo":"https://raw.githubusercontent.com/tzafino/om/master/chabiba.png","streamUrl":"http://stream.shabiba.fm:8000/;stream.nsv","yourmuzeId":"0","state":"1"},
+{"number":"4","name":"Shabiba FM","description":"","logo":"https://raw.githubusercontent.com/tzafino/om/master/chabiba.png","streamUrl":"http://stream.shabiba.fm:8000/;stream.nsv","yourmuzeId":"0","state":"2"},
 {"number":"5","name":"T FM","description":"","logo":"https://raw.githubusercontent.com/tzafino/om/master/TFM.png","streamUrl":"http://stream.timesofoman.fm:8028/;stream.nsv","yourmuzeId":"0","state":"1"},
 {"number":"6","name":"Merge 104.8","description":"","logo":"https://raw.githubusercontent.com/tzafino/om/master/Merge.png","streamUrl":"http://uk7.internet-radio.com:8040/stream","yourmuzeId":"0","state":"1"},
 {"number":"7","name":"Virgin Radio Oman","description":"","logo":"https://raw.githubusercontent.com/tzafino/om/master/virgin.jpg","streamUrl":"http://139.162.245.57:8115/stream/;","yourmuzeId":"0","state":"1"},
